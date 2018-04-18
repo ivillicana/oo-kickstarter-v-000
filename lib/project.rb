@@ -1,4 +1,4 @@
-class Project 
+class Project
   attr_accessor :title
 
   def initialization (title)
